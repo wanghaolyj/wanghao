@@ -2,7 +2,7 @@ title: Wanghao
 description: 攻城狮的博客
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile
 
 gems:
   - jekyll-mentions
